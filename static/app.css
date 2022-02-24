@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+td {
+  border: 0.2px solid black;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+input {
+  margin: 8px;
+}
+
+button {
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  text-align: center;
+}
